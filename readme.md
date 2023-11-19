@@ -7,7 +7,7 @@ Estimate the right amount of concrete for home improvement projects. Concrete ca
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/concrete-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /concrete-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Concrete Calculator](https://www.calculator.io/concrete-calculator/ "Concrete Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
