@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Concrete Calculator by www.calculator.io
+Plugin Name: CI Concrete calculator
 Plugin URI: https://www.calculator.io/concrete-calculator/
 Description: Estimate the right amount of concrete for home improvement projects. Concrete calculators do the math to figure out how many bags of mix to buy for driveway slabs, deck footings, stairs, and DIY projects.
 Version: 1.0.0
