@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Concrete Calcul
 == Screenshots ==
 
 1. The Concrete Calculator Input Form.
-2. The Concrete Calculator Calculation Results.
 
 == Installation ==
 

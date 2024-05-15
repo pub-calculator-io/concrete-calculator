@@ -3,7 +3,6 @@
 Estimate the right amount of concrete for home improvement projects. Concrete calculators do the math to figure out how many bags of mix to buy for driveway slabs, deck footings, stairs, and DIY projects.
 
 ![Concrete Calculator Input Form](/assets/images/screenshot-1.png "Concrete Calculator Input Form")
-![Concrete Calculator Calculation Results](/assets/images/screenshot-2.png "Concrete Calculator Calculation Results")
 
 ## Installation
 
