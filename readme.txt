@@ -1,13 +1,13 @@
-=== CI Concrete calculator ===
+=== Concrete Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: concrete calculator, concrete volume calculator, concrete mix calculator, slab concrete calculator, concrete cost estimator, ready mix concrete calculator, concrete project calculator, cement calculator, concrete footing calculator, concrete yardage calculator
+Tags: concrete calculator, cement calculator, concrete volume calculator, concrete bag calculator, concrete yardage calculator
 Requires at least: 5.0
-Tested up to: 6.4.0
+Tested up to: 6.5.5
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Estimate the right amount of concrete for home improvement projects. Concrete calculators do the math to figure out how many bags of mix to buy for driveway slabs, deck footings, stairs, and DIY projects.
+Need concrete for a slab, footing, or stairs? Use our free Concrete Calculator to accurately estimate volume, yards, and bags of mix needed for your project.
 
 [https://www.calculator.io/concrete-calculator/](https://www.calculator.io/concrete-calculator/)
 
@@ -15,19 +15,20 @@ Estimate the right amount of concrete for home improvement projects. Concrete ca
 
 Add the Concrete Calculator shortcode to your page, post or sidebar:
 
-`[ci_concrete_calculator]`
+`[calcio_concrete_calculator]`
 
 Add the following code to your template where you would like the Concrete Calculator to appear:
 
-`<?php display_ci_concrete_calculator(); ?>`
+`<?php display_calcio_concrete_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Concrete Calculator Input Form.
+2. The Concrete Calculator Calculation Results.
 
 == Installation ==
 
-1. Upload the Concrete Calculator /ci_concrete_calculator/ folder to the /wp-content/plugins/ directory.
+1. Upload the Concrete Calculator /calcio_concrete_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the Concrete Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==

@@ -1,6 +1,6 @@
 # Concrete Calculator Widget for WordPress
 
-Estimate the right amount of concrete for home improvement projects. Concrete calculators do the math to figure out how many bags of mix to buy for driveway slabs, deck footings, stairs, and DIY projects.
+Need concrete for a slab, footing, or stairs? Use our free Concrete Calculator to accurately estimate volume, yards, and bags of mix needed for your project.
 
 ![Concrete Calculator Input Form](/assets/images/screenshot-1.png "Concrete Calculator Input Form")
 
@@ -11,8 +11,8 @@ Estimate the right amount of concrete for home improvement projects. Concrete ca
 3. Activate the [Concrete Calculator](https://www.calculator.io/concrete-calculator/ "Concrete Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_concrete_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_concrete_calculator(); ?>` to your template where you would like the Concrete Calculator to appear.
+* Add the shortcode `[calcio_concrete_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_concrete_calculator(); ?>` to your template where you would like the Concrete Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
